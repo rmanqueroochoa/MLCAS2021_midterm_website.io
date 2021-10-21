@@ -7,4 +7,5 @@ Here we will explain how we came up with our model and how we cleaned the data.
   <h1>This section is for Beginnners</h1>
 </body>
 ```markdown
+Syntax highlighted code block
 ### Header 1
