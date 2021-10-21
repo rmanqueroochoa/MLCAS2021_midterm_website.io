@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 <body>
-  <h1>Hello World</h1>
+  <h1>This is the website for our midterm</h1>
 </body>
 
 <body>
