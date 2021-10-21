@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Team Data's Page
 <body>
   <h1>This is the website for our midterm</h1>
 </body>
