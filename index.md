@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 <body>
-  <h1>Hello World
-  This is the section for beginners </h1>
+  <h1>Hello World</h1>
 </body>
 
 You can use the [editor on GitHub](https://github.com/rmanqueroochoa/MLCAS2021_midterm_website.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
