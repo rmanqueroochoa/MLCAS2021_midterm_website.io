@@ -1,7 +1,7 @@
 <html>
-  <head>
+  <h1>
   Team Data
-  </head>
+  </h1>
   <body>
     <h1>Contributors</h1>
     <p>Cesar Perez /n
@@ -17,4 +17,4 @@
     <h1>This section is for Beginnners</h1>
     <p>This is our report</p>
   </body>
-    </html>
+</html>
