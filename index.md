@@ -1,6 +1,6 @@
 <html>
   <head>
-  <title>Team Data</title>
+  Team Data
   </head>
   <body>
     <h1>Contributors</h1>
