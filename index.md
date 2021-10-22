@@ -1,11 +1,11 @@
 ## Team Data's Page
 <body>
   <h1>Contributors</h1>
-  <p>Cesar Perez</p>
-  <p>Luis Flores Lozano</p>
-  <p>Austin Connick</p>
-  <p>Travis Myers</p>
-  <p>Raul Manquero-Ochoa</p>
+  <p>Cesar Perez /n
+  Luis Flores Lozano /n
+  Austin Connick /n
+  Travis Myers /n
+  Raul Manquero-Ochoa</p>
 <body>
   <h1>This is the website for our midterm</h1>
 </body>
