@@ -1,8 +1,6 @@
 
 # Team Data
-This is the page created for the MLCAS 2021<br>
-Crop Yeild Prediction challenge and for the midterm<br>
-for BE 429 at the University of Arizona.
+This is the page created for the MLCAS 2021 Crop Yeild Prediction challenge and for the midterm for BE 429 at the University of Arizona.
 
   <body>
     <h1>Contributors</h1>
