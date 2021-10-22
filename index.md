@@ -1,3 +1,4 @@
+<title>Team Data</title>
 ## Team Data's Page
 <body>
   <h1>Contributors</h1>
