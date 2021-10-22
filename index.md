@@ -1,8 +1,6 @@
 **Title**
-# Team Data
-<h1>
-  Team Data
-</h1>
+# Team Data <br><br>
+
   <body>
     <h1>Contributors</h1>
     <p>Cesar Perez /n
