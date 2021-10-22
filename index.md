@@ -17,4 +17,5 @@ Raul Manquero-Ochoa
 
 
 ###### Footnotes
-[^1]: https://eval.ai/web/challenges/challenge-page/1251/overview 
+[^1]: ''
+https://eval.ai/web/challenges/challenge-page/1251/overview
