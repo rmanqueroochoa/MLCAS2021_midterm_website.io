@@ -2,7 +2,6 @@
   <head>
   <title>Team Data</title>
   </head>
-  ## Team Data's Page
   <body>
     <h1>Contributors</h1>
     <p>Cesar Perez /n
