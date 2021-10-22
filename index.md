@@ -1,7 +1,6 @@
-<html>
-  <h1>
+<h1>
   Team Data
-  </h1>
+</h1>
   <body>
     <h1>Contributors</h1>
     <p>Cesar Perez /n
