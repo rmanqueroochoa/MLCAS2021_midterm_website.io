@@ -17,5 +17,4 @@ Raul Manquero-Ochoa
 
 
 ###### Footnotes
-[^1]: This is the website where the dataset was given
-https://eval.ai/web/challenges/challenge-page/1251/overview
+[^1]: This is the website where the data was given https://eval.ai/web/challenges/challenge-page/1251/overview
