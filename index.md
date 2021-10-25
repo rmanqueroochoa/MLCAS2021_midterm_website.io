@@ -13,8 +13,8 @@ Austin Connick<br>
 Travis Myers<br>
 Raul Manquero-Ochoa
 
-## Cleaning up the data
-
+## Explaining the Model
+Part of the challenge was to figure out what was going to be used in our model given the dataset. We approched it by first working on a small sample from the whole population in order to know what the desired results were before moving on to the entire dataset.
 
 ###### Footnotes
 [^1]: https://eval.ai/web/challenges/challenge-page/1251/overview
